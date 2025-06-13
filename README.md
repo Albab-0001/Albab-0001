@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react js, Tailwind, CSS**
 
-- 📫 How to reach me **arifansari90467@gmail.com**
+- 📫 How to reach me **albabkhan78692@gmail.com**
 
 <h3>🌐Connect with me:</h3>
 <table>
