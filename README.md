@@ -16,17 +16,17 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://twitter.com/arifansari55816" target="blank">
+      <a href="https://twitter.com/albabkhan" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/md-arif-ansari-3b7aa224a/" target="blank">
+      <a href="https://linkedin.com/in/albab-khan-0001-/" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
       </a>
     </td>
     <td align="center">
-      <a href="https://www.leetcode.com/arif0718" target="blank">
+      <a href="https://www.leetcode.com/albabkhan" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
       </a>
     </td>
@@ -144,23 +144,3 @@
   </tr>
 </table>
 
-
-<h1>📊GitHub Stats :</h1>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=arif0718&show_icons=true&locale=en&theme=radical" alt="arif0718" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif0718&theme=gruvbox" alt="arif0718" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arif0718&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="arif0718" />
-</div>
-
-<br>
-<h1>🏆GitHub Trophies</h1>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/githu/b-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arif0718" alt="arif0718" /></a> </p> -->
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arif0718&theme=juicyfresh&column=6&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="GitHub Trophies" />
-  </a>
-</p>
